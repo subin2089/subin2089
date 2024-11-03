@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 Battery Management System Data Engineer | Hyundai Motor
 
