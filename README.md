@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data science to dr
 🎓 Education
 M.S. in Applied Data Science (University of Sandiego, Expected Dec 2024)
 
-B.S. in [Your Undergraduate Major] (University of Dong-Eui University, Dec 2015)
+B.S. in Mechanical Engineering (University of Dong-Eui University, Dec 2015)
 
 💼 Professional Experience
 Battery Management System Data Engineer at Hyundai Motor
