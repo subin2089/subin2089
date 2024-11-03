@@ -6,15 +6,19 @@ Welcome to my GitHub profile! I'm passionate about leveraging data science to dr
 
 🎓 Education
 M.S. in Applied Data Science (University of Sandiego, Expected Dec 2024)
+
 B.S. in [Your Undergraduate Major] (University of Dong-Eui University, Dec 2015)
 
 💼 Professional Experience
 Battery Management System Data Engineer at Hyundai Motor
+
 Working with advanced analytics and machine learning to improve BMS functionality, including predictive maintenance, time-series analysis, and data pipeline optimization.
 
 🛠 Tech Stack
 Languages: Python, SQL, R
+
 Tools & Technologies: MySQL Workbench, Tableau, VS Code, Git, Jupyter Notebook
+
 Specialties: Time-series analysis, predictive modeling, data pipeline engineering, and data visualization
 
 🔗 Connect with Me
